@@ -22,7 +22,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/destraganteng/File-Sharing)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Destra1112/duatombol)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
